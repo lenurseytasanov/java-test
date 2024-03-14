@@ -1,0 +1,10 @@
+Пункт 10 задания 1:
+набор команд для различных пунктов(исключая 7 с PR)
+1) git init/clone
+2)git add <filename>
+ git commit -m <"message"?
+ git push origin
+3)git pull
+5)git checkout -b task1-slivnyi
+8)git checkout <another_branch>
+ git merge main
